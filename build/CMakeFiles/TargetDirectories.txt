@@ -1,0 +1,3 @@
+C:/Users/Alex/Downloads/C++ Projects/Project #1/build/CMakeFiles/MyProject.dir
+C:/Users/Alex/Downloads/C++ Projects/Project #1/build/CMakeFiles/edit_cache.dir
+C:/Users/Alex/Downloads/C++ Projects/Project #1/build/CMakeFiles/rebuild_cache.dir

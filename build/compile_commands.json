@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Alex/Downloads/C++ Projects/Project #1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/MyProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MyProject.dir\\src\\main.cpp.obj -c \"C:\\Users\\Alex\\Downloads\\C++ Projects\\Project #1\\src\\main.cpp\"",
+  "file": "C:/Users/Alex/Downloads/C++ Projects/Project #1/src/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/main.cpp.obj"
+}
+]
